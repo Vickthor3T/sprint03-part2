@@ -3,3 +3,22 @@ body {
   font-size: 24px;
   margin: 0 auto;
 }
+
+header {
+  background-color: lightblue;
+  padding: 20px;
+}
+main {
+  padding: 20px;
+}
+h1 {
+  color: darkblue;
+}
+p {
+  color: #333;
+}
+footer {
+  background-color: lightgray;
+  padding: 20px;
+  text-align: center;
+}
